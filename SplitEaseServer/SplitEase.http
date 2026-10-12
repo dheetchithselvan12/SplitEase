@@ -1,0 +1,6 @@
+@SplitEase_HostAddress = http://localhost:5106
+
+GET {{SplitEase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
